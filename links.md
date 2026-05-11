@@ -1,6 +1,6 @@
 ---
 title: "Links"
-order: 1
+order: 2
 in_menu: true
 ---
 L’association cherche à œuvrer en collaboration avec des organismes publics, des organisations privées et des individus.
